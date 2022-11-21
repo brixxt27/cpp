@@ -2,6 +2,8 @@
 1. This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming!
 2. 자세한 내용은 github Wiki에 작성할 예정이다.
 
+https://github.com/brixxt27/cpp_module/wiki
+
 ## General rules
 ### Compiling
 1. -Wall -Wextra -Werror 로 컴파일 하기
