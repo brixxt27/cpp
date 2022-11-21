@@ -20,7 +20,13 @@ This first module of C++ is designed to help you understand the specifities of t
 2. Module 02 ~ 08 에서의 클래스는 명시적으로 이야기한 부분을 제외하고, Orthodox Canonical Form 으로 설계되어야 한다.
 3. 함수 템플릿을 제외하고 헤더 파일에 무엇이든 함수 구현을 넣는다면 그것은 0점을 의미한다.
 4. 각각의 헤더 파일들을 다른 헤더들로부터 독립적으로 사용할 수 있어야 한다. 따라서, 그들은 필요로 하는 모든 의존성을 포함해야 한다. 그러나 include guards를 추가하여 Problem of double inclusion 을 피해야 한다. 그렇지 않으면 당신은 0점이다.
-
+### Read me
+1. 필요한 경우 분할한 코드를 추가할 수 있습니다. 이 부분은 프로그램에 의해 검사되지 않으므로, 필수 파일을 제출하는 한 허용된다.
+2. 예제에 intruction에서 이야기하지 않은 부분을 추가로 이야기 할 수 있다.
+3. 시작하기 전에 모든 모듈을 완전히 읽으세요! 제발 하세요!
+### ETC
+1. 많은 클래스를 구현하게 될 것이다. 그러므로 가장 좋아하는 에디터를 사용하지 못한다면 지루해질 것이다.
+2. 과제를 수행함에 있어 이를 완료할 수 있는 일정한 자유가 주어질 것이다. 하지만 의무적인 규칙을 따르고, 게을러지지 마세요. 그렇지 않으면 많은 유용한 정보들을 놓치게 될 것입니다! 이론적인 개념에 대해 읽는 것에 대해 주저하지 마세요!
 ## Detail
 ### cpp01
 Namespaces, classes, member function, stdio streams, initialization list, static, const, and some other basic stuff
