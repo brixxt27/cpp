@@ -1,4 +1,15 @@
 ## CPP_Module
+### Project
+- 00: https://github.com/brixxt27/cpp_module_00
+- 01: https://github.com/brixxt27/cpp_module_01
+- 02: https://github.com/brixxt27/cpp_module_02
+- 03: https://github.com/brixxt27/cpp_module_03
+- 04: https://github.com/brixxt27/cpp_module_04
+- 05: https://github.com/brixxt27/cpp_module_05
+- 06: https://github.com/brixxt27/cpp_module_06
+- 07: https://github.com/brixxt27/cpp_module_07
+- 08: https://github.com/brixxt27/cpp_module_08
+### Detail
 1. This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming!
 2. 자세한 내용은 github Wiki에 작성할 예정이다.
 
