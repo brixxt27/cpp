@@ -12,6 +12,7 @@
 ### Detail
 1. This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming!
 2. 자세한 내용은 github Wiki에 작성할 예정이다.
+3. OOP란 사람들이 세상을 바라보는 방식으로 프로그래밍하는 것이며, cpp module 또한 그렇게 진행할 것이다.
 
 https://github.com/brixxt27/cpp_module/wiki
 
