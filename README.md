@@ -1,7 +1,7 @@
 ## CPP_Module
 ### Project
 - 00: https://github.com/brixxt27/cpp_module_00
-### I don't make repositories!
+### I don't make their repositories!
 - 01: https://github.com/brixxt27/cpp_module_01
 - 02: https://github.com/brixxt27/cpp_module_02
 - 03: https://github.com/brixxt27/cpp_module_03
