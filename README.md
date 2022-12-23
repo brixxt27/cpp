@@ -10,6 +10,15 @@
 - 06: https://github.com/brixxt27/cpp_module_06
 - 07: https://github.com/brixxt27/cpp_module_07
 - 08: https://github.com/brixxt27/cpp_module_08
+
+### Subject README.md format
+```
+# ex0x: 
+## Usage
+## Summary
+## Detail
+```
+
 ### Detail
 1. This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming!
 2. 자세한 내용은 github Wiki에 작성할 예정이다.
