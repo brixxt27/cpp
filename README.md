@@ -2,9 +2,9 @@
 ### Project
 - 00: https://github.com/brixxt27/cpp_module_00
 - 01: https://github.com/brixxt27/cpp_module_01
+- 02: https://github.com/brixxt27/cpp_module_02
 ### I don't make their repositories!
 ```
-- 02: https://github.com/brixxt27/cpp_module_02
 - 03: https://github.com/brixxt27/cpp_module_03
 - 04: https://github.com/brixxt27/cpp_module_04
 - 05: https://github.com/brixxt27/cpp_module_05
