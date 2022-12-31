@@ -1,20 +1,30 @@
 ## CPP_Module
 ### Project
 - 00: https://github.com/brixxt27/cpp_module_00
-### I don't make their repositories!
 - 01: https://github.com/brixxt27/cpp_module_01
 - 02: https://github.com/brixxt27/cpp_module_02
+### I don't make their repositories!
+```
 - 03: https://github.com/brixxt27/cpp_module_03
 - 04: https://github.com/brixxt27/cpp_module_04
 - 05: https://github.com/brixxt27/cpp_module_05
 - 06: https://github.com/brixxt27/cpp_module_06
 - 07: https://github.com/brixxt27/cpp_module_07
 - 08: https://github.com/brixxt27/cpp_module_08
-
+```
 ### Subject README.md format
 ```
+# Home
+### 이슈 관리: [전체 이슈 list]()
+
 # ex0x: 
 ## Usage
+/```
+git clone https://github.com/brixxt27/cpp_module_0x.git
+cd cpp_module_0x/
+make
+./
+/```
 ## Summary
 ## Detail
 ```
