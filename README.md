@@ -19,12 +19,12 @@
 
 # ex0x: 
 ## Usage
-```
+/```
 git clone https://github.com/brixxt27/cpp_module_0x.git
 cd cpp_module_0x/
 make
 ./
-```
+/```
 ## Summary
 ## Detail
 ```
