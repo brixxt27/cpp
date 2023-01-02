@@ -51,4 +51,12 @@ namespace samples {
 		mX *= multiplier;
 		mY *= multiplier;
 	}
+
+	Vector	Vector::operator+(const Vector& v) const {
+		Vector	ret;
+
+		ret.mX = mX + v.mX;
+		ret.mY = mY + v.mY;
+		return ret;
+	}
 }

@@ -21,6 +21,8 @@ namespace samples {
 		void	Scale(const Vector& v);
 		void	Scale(int multiplier);
 
+		Vector	operator+(const Vector& v) const;
+
 	private:
 		int	mX;
 		int	mY;
