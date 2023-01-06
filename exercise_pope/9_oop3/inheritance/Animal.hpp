@@ -5,7 +5,7 @@ namespace sample
 	{
 	public:
 		Animal(int age);
-		virtual ~Animal();
+		~Animal();
 
 		virtual void	Move() const;
 		virtual void	Speak() const;

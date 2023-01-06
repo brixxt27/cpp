@@ -6,15 +6,6 @@ int main(void)
 {
 	sample::Animal* MyCat = new sample::Cat(3);
 	sample::Animal* MyDog = new sample::Dog(3);
-	sample::Animal	SomeAnimal(3);
-	sample::Cat		SomeCat(4);
-
-	SomeAnimal = SomeCat;
-	//SomeCat = SomeAnimal;
-
-
-	std::cout << SomeAnimal.GetTmp() << std::endl;
-	std::cout << SomeAnimal.GetAge() << std::endl;
 
 	MyCat->Move();
 	MyDog->Speak();
