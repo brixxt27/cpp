@@ -29,6 +29,17 @@ make
 ## Detail
 ```
 
+### Subject issue format
+```
+# C++ Module 0x
+### Subtitle: test
+## ex0x
+### main
+- [ ] empty
+### bug
+- [ ] empty
+```
+
 ### Detail
 1. This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming!
 2. 자세한 내용은 github Wiki에 작성할 예정이다.
