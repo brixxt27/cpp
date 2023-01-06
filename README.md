@@ -27,6 +27,8 @@ make
 /```
 ## Summary
 ## Detail
+<bt> </bt>
+
 ```
 
 ### Subject issue format
@@ -38,6 +40,8 @@ make
 - [ ] empty
 ### bug
 - [ ] empty
+<bt> </bt>
+
 ```
 
 ### Detail
