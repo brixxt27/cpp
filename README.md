@@ -21,7 +21,7 @@
 ## Usage
 /```
 git clone https://github.com/brixxt27/cpp_module_0x.git
-cd cpp_module_0x/
+cd cpp_module_0x/ex0x
 make
 ./
 /```
