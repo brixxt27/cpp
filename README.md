@@ -41,7 +41,7 @@ make
 ### bug
 - [ ] empty
 ### Note
-- [ ] empty
+- empty
 <bt> </bt>
 
 ```
