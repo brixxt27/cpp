@@ -5,9 +5,9 @@
 - 02: https://github.com/brixxt27/cpp_module_02
 - 03: https://github.com/brixxt27/cpp_module_03
 - 04: https://github.com/brixxt27/cpp_module_04
+- 05: https://github.com/brixxt27/cpp_module_05
 ### I don't make their repositories!
 ```
-- 05: https://github.com/brixxt27/cpp_module_05
 - 06: https://github.com/brixxt27/cpp_module_06
 - 07: https://github.com/brixxt27/cpp_module_07
 - 08: https://github.com/brixxt27/cpp_module_08
