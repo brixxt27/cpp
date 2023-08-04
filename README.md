@@ -9,7 +9,7 @@
 - 06: https://github.com/brixxt27/cpp_module_06
 - 07: https://github.com/brixxt27/cpp_module_07
 - 08: https://github.com/brixxt27/cpp_module_08
-- 09: 현재 공개할 수 없습니다.
+- 09: https://github.com/brixxt27/cpp_module_09
 - subject(private): https://github.com/42seoul-translation/subject_ko
 ### I don't make their repositories!
 ```
